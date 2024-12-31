@@ -43,5 +43,6 @@ INTERIM_DATA_TRAIN = 'training_features.csv'
 INTERIM_DATA_TEST = 'testing_features.csv'
 INTERIM_DATA_LABELS = 'labels.csv'
 
-RAW_DATA_FILE_01 = 'sessions_01.csv'
-RAW_DATA_FILE_02 = 'sessions_01.csv'
+RAW_DATA_FILE_01 = 'train.csv'
+RAW_DATA_FILE_02 = 'test.csv'
+RAW_DATA_FILE_03 = 'data_dictionary.csv'
